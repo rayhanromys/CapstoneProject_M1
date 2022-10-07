@@ -1,3 +1,3 @@
 # CapstoneProject_M1
-Data Karyawan, Membuat Program dengan Python 
+Employee Data, Basic Program Using Python 
 Rayhan Romy Syahputra (Data Science)
